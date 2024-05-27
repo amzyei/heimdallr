@@ -1,10 +1,6 @@
 # Heimdallr Terminal Emulator
 
-A terminal,
-We are focused on its lightness and speed!
-Finally, it can be a permanent terminal for you!
-this terminal witten in C and Gtk framework
-because HEIMDALLR must be a SUPER lightweight.
+This terminal is designed to be lightweight and fast, written in C and Gtk framework for super lightweight performance.
 
 
 SIZE : 23KB :D
