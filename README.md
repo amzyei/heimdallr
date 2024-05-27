@@ -3,12 +3,6 @@
 This terminal is designed to be lightweight and fast, written in C and Gtk framework for super lightweight performance.
 
 
-SIZE : 23KB :D
-
-
-after compile !!!!!!!!!!!!!!!!!!!!!
-
-
 # screenshots
 
 ![screenshots](screenshots/1.png)
